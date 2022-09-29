@@ -64,13 +64,13 @@ cd cd0157-Server-Deployment-and-Containerization/
 ├── README.md
 ├── aws-auth-patch.yml #ToDo
 ├── buildspec.yml      #ToDo
-├── ci-cd-codepipeline.cfn.yml #ToDo
-├── iam-role-policy.json  #ToDo
+├── ci-cd-codepipeline.cfn.yml #ToDo done
+├── iam-role-policy.json  #ToDo done
 ├── main.py
 ├── requirements.txt
 ├── simple_jwt_api.yml
-├── test_main.py  #ToDo
-└── trust.json     #ToDo 
+├── test_main.py  #ToDo done
+└── trust.json     #ToDo done
 ```
 
      
